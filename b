@@ -1,0 +1,2 @@
+inside file b
+akkk
